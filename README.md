@@ -52,7 +52,7 @@ The plot shows that sale price dipped slightly in 2011 but has steady increase a
 Next, we compare the average sale prices by neighborhood:
 ![Sale Price per Square Foot and Average Gross Rent in San Francisco from 2010 to 2016](https://github.com/kevin-mau/san_francisco_housing/blob/main/Images/by%20neighborhood.png?raw=true)
 
-In this interactive visualization, you can toggle the neighborhood to view the data.  
+In the Jupyter Notebook, you can toggle the neighborhood in the interactive visualization to view the data for each neighborhood.  
 
 Lastly, we have a scatter visualization where the color codes represent the gross rent.  We can utilize this function to locate the neighborhood with the highest rents.  The size of the dot represents the sale price per square foot.  This helps us locate the neighborhood with the highest sale price per square foot.
 ![Average Sale Price Per Square Foot and Gross Rent in San Francisco](https://github.com/kevin-mau/san_francisco_housing/blob/main/Images/sale%20price%20gross%20rent%20scatter.png?raw=true)
