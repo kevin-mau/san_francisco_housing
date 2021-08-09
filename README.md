@@ -45,17 +45,17 @@ First, we will investigate the overall trend in housing units over the period th
 The overall trend is that housing units were steadily increasing year over year in San Francisco from 2010 to 2016. Approximately a 2000 unit increase each year occurred every year during the period being analyzed.
 
 Next, we will plot the average sale prices per square foot:
-https://github.com/kevin-mau/san_francisco_housing/blob/main/Images/sales%20price%20gross%20rent.png
+![Sale Price per Square Foot and Average Gross Rent in San Francisco from 2010 to 2016](https://github.com/kevin-mau/san_francisco_housing/blob/main/Images/sales%20price%20gross%20rent.png?raw=true)
 
 The plot shows that sale price dipped slightly in 2011 but has steady increase afterwards.  The gross rent continues to climb higher at a faster rate that sales prices.
 
 Next, we compare the average sale prices by neighborhood:
-https://github.com/kevin-mau/san_francisco_housing/blob/main/Images/by%20neighborhood.png
+![Sale Price per Square Foot and Average Gross Rent in San Francisco from 2010 to 2016](https://github.com/kevin-mau/san_francisco_housing/blob/main/Images/by%20neighborhood.png?raw=true)
 
 In this interactive visualization, you can toggle the neighborhood to view the data.  
 
 Lastly, we have a scatter visualization where the color codes represent the gross rent.  We can utilize this function to locate the neighborhood with the highest rents.  The size of the dot represents the sale price per square foot.  This helps us locate the neighborhood with the highest sale price per square foot.
-https://github.com/kevin-mau/san_francisco_housing/blob/main/Images/sale%20price%20gross%20rent%20scatter.png
+![Average Sale Price Per Square Foot and Gross Rent in San Francisco](https://github.com/kevin-mau/san_francisco_housing/blob/main/Images/sale%20price%20gross%20rent%20scatter.png?raw=true)
 
 Through our interactive visualizations, we have learned that investing in rental properties in San Francisco is worthwhile and the plots also help us to locate some neighborhoods with the best opportunities.
 
