@@ -40,7 +40,7 @@ Please create your own .env file with your unique mapbox API access token in ord
 ---
 
 First, we will investigate the overall trend in housing units over the period that we're analyzing (2010 - 2016):
-https://github.com/kevin-mau/san_francisco_housing/blob/main/Images/housing%20units%202010%20to%202016.png
+![Housing Units 2010 to 2016](Images/housing units 2010 to 2016.png)
 
 The overall trend is that housing units were steadily increasing year over year in San Francisco from 2010 to 2016. Approximately a 2000 unit increase each year occurred every year during the period being analyzed.
 
